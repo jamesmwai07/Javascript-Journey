@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+main{
+    margin: 2em;
+    padding: 4em;
+    background-color: aqua;
+    
+}
+button {
+    background-color: gray;
+    font-size: 1.2em;
+}
